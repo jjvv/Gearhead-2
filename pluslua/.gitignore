@@ -1,0 +1,12 @@
+# tell git to ignore some standard files
+Arena_R
+errors.txt
+config.cfg
+
+savegame/*
+
+*.o
+*.ppu
+*.swp
+*.vim
+
